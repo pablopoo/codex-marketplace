@@ -1,0 +1,36 @@
+{
+  "name": "pablopoo-plugins",
+  "interface": {
+    "displayName": "Pablo's Plugins"
+  },
+  "plugins": [
+    {
+      "name": "universal-lever",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/pablopoo/universal-lever.git",
+        "path": "./plugins/universal-lever",
+        "sha": "2947da554a4d2d0154fc869da4a449cb61273af9"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "gstack-power-team",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/pablopoo/gstack-generic.git",
+        "path": "./plugins/gstack-power-team",
+        "sha": "4bdf6f5d680c084b57917f1f4467cebef18ea8e5"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
