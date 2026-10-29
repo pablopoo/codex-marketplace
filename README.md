@@ -9,8 +9,8 @@ silently follow development branches.
 
 | Plugin | Version | Source package | Pinned commit |
 |---|---|---|---|
-| Universal Lever | 0.1.1 | [pablopoo/universal-lever](https://github.com/pablopoo/universal-lever/tree/8a7c0c294be5fd27656806f26023dffa00014054/plugins/universal-lever) | [`8a7c0c2`](https://github.com/pablopoo/universal-lever/commit/8a7c0c294be5fd27656806f26023dffa00014054) |
-| GStack Power Team | 1.2.2 | [pablopoo/gstack-generic](https://github.com/pablopoo/gstack-generic/tree/6a7bf4cbc0a76e3834fb8e2e325c7e6a56e71003/plugins/gstack-power-team) | [`6a7bf4c`](https://github.com/pablopoo/gstack-generic/commit/6a7bf4cbc0a76e3834fb8e2e325c7e6a56e71003) |
+| Universal Lever | 0.1.1 | [pablopoo/universal-lever](https://github.com/pablopoo/universal-lever/tree/ea612e63fadc82d16bd62d24062b1139b7fa4f88/plugins/universal-lever) | [`ea612e6`](https://github.com/pablopoo/universal-lever/commit/ea612e63fadc82d16bd62d24062b1139b7fa4f88) |
+| GStack Power Team | 1.2.3 | [pablopoo/gstack-generic](https://github.com/pablopoo/gstack-generic/tree/75e58b7503701670a7f305c36f5b13bee3c25f7d/plugins/gstack-power-team) | [`75e58b7`](https://github.com/pablopoo/gstack-generic/commit/75e58b7503701670a7f305c36f5b13bee3c25f7d) |
 
 Universal Lever provides one coordinator skill for measurement, experiments,
 delivery and review. GStack Power Team provides curated product and engineering
@@ -39,9 +39,10 @@ The full source URL also works:
 codex plugin marketplace add https://github.com/pablopoo/codex-marketplace.git
 ```
 
-The catalog and plugin repositories are currently private. Your Git credentials
-must be able to read all three repositories. Making the catalog public later
-will not make its referenced private repositories accessible.
+The catalog and both plugin repositories are public. Reading these Git sources
+does not require GitHub credentials. Workspace import may still require GitHub
+authorization and workspace permissions. Publishing a repository on GitHub does
+not automatically list its plugins in a public plugin directory.
 
 ## Codex / ChatGPT Desktop
 

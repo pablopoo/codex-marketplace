@@ -10,7 +10,7 @@
         "source": "git-subdir",
         "url": "https://github.com/pablopoo/universal-lever.git",
         "path": "./plugins/universal-lever",
-        "sha": "8a7c0c294be5fd27656806f26023dffa00014054"
+        "sha": "ea612e63fadc82d16bd62d24062b1139b7fa4f88"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -24,7 +24,7 @@
         "source": "git-subdir",
         "url": "https://github.com/pablopoo/gstack-generic.git",
         "path": "./plugins/gstack-power-team",
-        "sha": "6a7bf4cbc0a76e3834fb8e2e325c7e6a56e71003"
+        "sha": "75e58b7503701670a7f305c36f5b13bee3c25f7d"
       },
       "policy": {
         "installation": "AVAILABLE",
