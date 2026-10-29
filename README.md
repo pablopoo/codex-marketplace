@@ -10,7 +10,7 @@ silently follow development branches.
 | Plugin | Version | Source package | Pinned commit |
 |---|---|---|---|
 | Universal Lever | 0.1.1 | [pablopoo/universal-lever](https://github.com/pablopoo/universal-lever/tree/8a7c0c294be5fd27656806f26023dffa00014054/plugins/universal-lever) | [`8a7c0c2`](https://github.com/pablopoo/universal-lever/commit/8a7c0c294be5fd27656806f26023dffa00014054) |
-| GStack Power Team | 1.2.2 | [pablopoo/gstack-generic](https://github.com/pablopoo/gstack-generic/tree/77af1899715348bab2063c133c2187d54510a540/plugins/gstack-power-team) | [`77af189`](https://github.com/pablopoo/gstack-generic/commit/77af1899715348bab2063c133c2187d54510a540) |
+| GStack Power Team | 1.2.2 | [pablopoo/gstack-generic](https://github.com/pablopoo/gstack-generic/tree/6a7bf4cbc0a76e3834fb8e2e325c7e6a56e71003/plugins/gstack-power-team) | [`6a7bf4c`](https://github.com/pablopoo/gstack-generic/commit/6a7bf4cbc0a76e3834fb8e2e325c7e6a56e71003) |
 
 Universal Lever provides one coordinator skill for measurement, experiments,
 delivery and review. GStack Power Team provides curated product and engineering
