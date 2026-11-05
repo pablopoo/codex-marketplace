@@ -24,7 +24,7 @@
         "source": "git-subdir",
         "url": "https://github.com/pablopoo/gstack-generic.git",
         "path": "./plugins/gstack-power-team",
-        "sha": "75e58b7503701670a7f305c36f5b13bee3c25f7d"
+        "sha": "1c53015d28fb3ba2a6e08a4c8dc3b470c90a1770"
       },
       "policy": {
         "installation": "AVAILABLE",
