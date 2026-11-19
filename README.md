@@ -9,7 +9,7 @@ silently follow development branches.
 
 | Plugin | Version | Source package | Pinned commit |
 |---|---|---|---|
-| Universal Lever | 0.1.1 | [pablopoo/universal-lever](https://github.com/pablopoo/universal-lever/tree/ea612e63fadc82d16bd62d24062b1139b7fa4f88/plugins/universal-lever) | [`ea612e6`](https://github.com/pablopoo/universal-lever/commit/ea612e63fadc82d16bd62d24062b1139b7fa4f88) |
+| Universal Lever | 0.1.2 | [pablopoo/universal-lever](https://github.com/pablopoo/universal-lever/tree/b515be00ad5ff63d9526b0da33529096a1586dcc/plugins/universal-lever) | [`b515be0`](https://github.com/pablopoo/universal-lever/commit/b515be00ad5ff63d9526b0da33529096a1586dcc) |
 | GStack Power Team | 1.3.0 | [pablopoo/gstack-generic](https://github.com/pablopoo/gstack-generic/tree/1c53015d28fb3ba2a6e08a4c8dc3b470c90a1770/plugins/gstack-power-team) | [`1c53015`](https://github.com/pablopoo/gstack-generic/commit/1c53015d28fb3ba2a6e08a4c8dc3b470c90a1770) |
 
 Universal Lever provides one coordinator skill for measurement, experiments,

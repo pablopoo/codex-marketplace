@@ -10,7 +10,7 @@
         "source": "git-subdir",
         "url": "https://github.com/pablopoo/universal-lever.git",
         "path": "./plugins/universal-lever",
-        "sha": "ea612e63fadc82d16bd62d24062b1139b7fa4f88"
+        "sha": "b515be00ad5ff63d9526b0da33529096a1586dcc"
       },
       "policy": {
         "installation": "AVAILABLE",
